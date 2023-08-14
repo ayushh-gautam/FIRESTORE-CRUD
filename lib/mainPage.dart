@@ -66,7 +66,7 @@ class _MainPageState extends State<MainPage> {
                 child: Container(
                   alignment: Alignment.center,
                   height: 50,
-                  width: 130,
+                  width: 130, //nothing here
                   decoration: BoxDecoration(
                       borderRadius: BorderRadius.circular(14),
                       color: Colors.green),
